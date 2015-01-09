@@ -1,0 +1,6 @@
+[23-Jan-2013 19:23:45 Asia/Jakarta] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/itcompet/public_html/includes/koneksi.php on line 3
+[23-Jan-2013 19:23:45 Asia/Jakarta] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/itcompet/public_html/ajax/data_peserta.php on line 5
+[23-Jan-2013 19:23:45 Asia/Jakarta] PHP Warning:  main() [<a href='function.main'>function.main</a>]: Couldn't fetch mysqli in /home/itcompet/public_html/ajax/data_peserta.php on line 5
+[23-Jan-2013 19:23:58 Asia/Jakarta] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/itcompet/public_html/includes/koneksi.php on line 3
+[23-Jan-2013 19:23:58 Asia/Jakarta] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/itcompet/public_html/ajax/data_peserta.php on line 5
+[23-Jan-2013 19:23:58 Asia/Jakarta] PHP Warning:  main() [<a href='function.main'>function.main</a>]: Couldn't fetch mysqli in /home/itcompet/public_html/ajax/data_peserta.php on line 5
